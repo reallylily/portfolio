@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: uuidv4(),
-    img: 'BabblChatLogo.jpg',
+    img: 'babblelogo.jpg',
     title: 'BabbleChat',
     info: 'At BabbleChat, we strive to make learning languages an enjoyable experience for all language learners, from the conversational newbie to the linguistic expert, to the dabbling hobbyist in between. Through our chat dynamic platform, connect with people from across the world. Master fluency in a language, one word a time, with exciting conversational partners along the way.',
     info2: '',
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: uuidv4(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/jitsu-macmaster-41b86967/',
     },
     {
       id: uuidv4(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/jitsumacmaster',
     },
   ],
 };
