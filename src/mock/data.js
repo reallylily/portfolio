@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv4(),
-    img: 'project.jpg',
+    img: 'deathstarlogo.jpg',
     title: 'Death Star Trench',
     info: 'Fly an X-Wing down the infamous Deathstar Trench, and take your shot at blowing up the Deathstar. May the force be with you!',
     info2: '',
