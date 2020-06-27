@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Jitsu MacMaster',
-  subtitle: "I am a Software Engineer with a passion for code with a hint of social justice!",
+  subtitle: "Software Engineer by day...",
   cta: '',
 };
 
@@ -44,15 +44,15 @@ export const projectsData = [
     url: 'http://babble-chat-app.herokuapp.com/#/',
     repo: 'https://github.com/jitsumacmaster/BabbleChat', // if no repo, the button will not show up
   },
-  {
-    id: uuidv4(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  // {
+  //   id: uuidv4(),
+  //   img: 'project.jpg',
+  //   title: '',
+  //   info: '',
+  //   info2: '',
+  //   url: '',
+  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
@@ -65,16 +65,16 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: uuidv4(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: uuidv4(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   id: uuidv4(),
+    //   name: 'twitter',
+    //   url: '',
+    // },
+    // {
+    //   id: uuidv4(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: uuidv4(),
       name: 'linkedin',
@@ -90,5 +90,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
