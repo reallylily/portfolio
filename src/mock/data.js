@@ -21,7 +21,7 @@ export const aboutData = {
 
   paragraphOne: "Thanks for visiting my portfolio. I really hope you try to blow up the Death Star, because I think it's really fun.",
   paragraphTwo: "I'm passionate about finding creative solutions to complex problems and building dynamic, clean, user-friendly applications. I am an energized clear communicator, and I love incorporating my passion for social justice into my projects.",
-  paragraphThree: 'I am a Full Stack Software Developer with a work history consisting of various roles in the software industry.I am skilled with JavaScript, MERN Stack, Ruby, Rails, React-Redux, jQuery, SQL, HTML, and CSS. One of my greatest strengths is that I have managerial experience with the the full dev cycle for SaaS Products. I have a life long passion for nature, animals, and ecological systems, and I come with a bonus BA in Integrative Biology from UC Berkeley.',
+  paragraphThree: 'I am a Full Stack Software Developer with a strong record of various roles in the software industry. I am skilled with JavaScript, MERN Stack, Ruby, Rails, React-Redux, jQuery, SQL, HTML, and CSS. One of my greatest strengths is that I have managerial experience with the the full dev cycle for SaaS Products. I have a life long passion for nature, animals, and ecological systems, and I come with a bonus BA in Integrative Biology from UC Berkeley.',
   resume: 'https://docs.google.com/document/d/1OOKLbng1Y_2EDzyDqxbFi5h-oCzEGvDNUHBFKxGGTsY/edit?usp=sharing', // if no resume, the button will not show up
 };
 
