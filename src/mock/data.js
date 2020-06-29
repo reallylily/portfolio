@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'jitsu.jpg',
-  paragraphOne: '',
+  paragraphOne: 'Full Stack Software Developer with a history of working in the software industry. Skilled with JavaScript, MERN Stack, Ruby, Rails, React-Redux, jQuery, SQL, HTML, and CSS. Managerial experiencewith the the full dev cycle for SaaS (Software as a Service) Products. Strong education professional with a Bachelor of Arts (BA) focused in Integrative Biology from UC Berkeley.',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://docs.google.com/document/d/1OOKLbng1Y_2EDzyDqxbFi5h-oCzEGvDNUHBFKxGGTsY/edit?usp=sharing', // if no resume, the button will not show up
